@@ -36,10 +36,10 @@ li a {
 iframe {
 	width: 70%;
 	margin-left: 15%;
-	height: 80vw;}
+	height: auto;}
 
 header {
 	text-align: center;
 	width: 100%;
-	background-color: #C0C0C0;}
+	background-color: #C0C0C0; }
 
