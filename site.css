@@ -1,12 +1,12 @@
 body { 
-	background-color: #4BAFAF;}
+	background-color: #9CE3BA; }
 
 #navbar {
   list-style-type: none;
 	margin: 0;
 	width: 100%;
 	padding: 0.7vw 0vw;
-	background-color: #CC4444;
+	background-color: #784B3A;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #000000;}
@@ -15,7 +15,7 @@ body {
   display: inline;}
 
 #navbar a:hover {
-	background-color: #B72D2D;}
+	background-color: #563529;}
 
 li a {
 	padding: 0.7vw 1.7vw;
@@ -43,5 +43,6 @@ iframe {
 header {
 	text-align: center;
 	width: 100%;
-	background-color: #C0C0C0; }
+	background-color: #C0C0C0;
+	padding-bottom: 50px; }
 
