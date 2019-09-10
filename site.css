@@ -15,7 +15,7 @@ body {
   display: inline;}
 
 #navbar a:hover {
-	background-color: #F07575;}
+	background-color: #3D8F3D;}
 
 li a {
 	padding: 0.7vw 1.7vw;
@@ -43,7 +43,7 @@ iframe {
 header {
 	text-align: center;
 	width: 100%;
-	background-color: #C0C0C0;
+	background-color: #B0B0B0;
 	padding-bottom: 30px;
 	padding-top: 20px; }
 
