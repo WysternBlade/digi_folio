@@ -15,7 +15,7 @@ body {
   display: inline;}
 
 #navbar a:hover {
-	background-color: #3D8F3D;}
+	background-color:  #2E6B2E; }
 
 li a {
 	padding: 0.7vw 1.7vw;
@@ -45,5 +45,7 @@ header {
 	width: 100%;
 	background-color: #B0B0B0;
 	padding-bottom: 30px;
-	padding-top: 20px; }
+	padding-top: 20px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 2.5em; }
 
