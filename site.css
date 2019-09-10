@@ -6,7 +6,7 @@ body {
 	margin: 0;
 	width: 100%;
 	padding: 0.7vw 0vw;
-	background-color: #784B3A;
+	background-color: #F5A3A3;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #000000;}
@@ -15,7 +15,7 @@ body {
   display: inline;}
 
 #navbar a:hover {
-	background-color: #563529;}
+	background-color: #F07575;}
 
 li a {
 	padding: 0.7vw 1.7vw;
