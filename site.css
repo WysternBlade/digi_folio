@@ -16,6 +16,8 @@ body {
 
 #navbar a:hover {
 	background-color:  #3D8F3D; }
+#navbar a:active {
+	background-color:  #3D8F66; }
 
 li a {
 	padding: 0.7vw 1.7vw;
